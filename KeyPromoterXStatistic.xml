@@ -54,7 +54,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'debug.html'</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -91,6 +91,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Clear All">
+        <Item>
+          <IdeaActionID>ConsoleView.ClearAll</IdeaActionID>
+          <Description>Clear All</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'debug.html'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>

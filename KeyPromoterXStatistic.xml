@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -70,6 +70,14 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>FileChooser.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Refresh</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -105,6 +113,14 @@
           <Count>42</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run...">
+        <Item>
+          <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
+          <ShortCut>'Alt+Shift+F10'</ShortCut>
+          <Description>Run...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Step Over">
         <Item>
           <IdeaActionID>StepOver</IdeaActionID>
@@ -118,6 +134,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ClickWorkTester'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'Alt+7'</ShortCut>
+          <Description>Structure</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

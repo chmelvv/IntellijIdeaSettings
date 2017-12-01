@@ -41,6 +41,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'mvn test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'mvn test'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -55,6 +63,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'Alt+F8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -137,6 +153,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'C:/ClickWork-deveo/clickwork-ui-tests/te...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'C:/ClickWork-deveo/clickwork-ui-tests/te...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ClickWorkTester'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -177,6 +201,14 @@
           <Count>42</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'mvn test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'mvn test'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run...">
         <Item>
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
@@ -207,6 +239,14 @@
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'C:/ClickWork-deveo/clickwork-ui-tests/testng.xml'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'C:/ClickWork-deveo/clickwork-ui-tests/testng.xml'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ClickWorkTester'">

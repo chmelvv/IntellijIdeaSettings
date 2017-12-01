@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>38</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">

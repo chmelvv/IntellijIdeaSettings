@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -134,7 +134,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
@@ -142,7 +142,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Insert'</ShortCut>
           <Description>New Watch...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -198,15 +198,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'C:/ClickWork-deveo/clickwork-ui-tests/te...'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'C:/ClickWork-deveo/clickwork-ui-tests/te...'</Description>
-          <Count>5</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ClickWorkTester'">
@@ -431,6 +423,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'debug.html'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'C:/ClickWork-deveo/clickwork-ui-tests/te...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'C:/ClickWork-deveo/clickwork-ui-tests/te...'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'C:/ClickWork-deveo/clickwork-ui-tests/testng.xml'">

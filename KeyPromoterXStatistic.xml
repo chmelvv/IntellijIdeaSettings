@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ClickWorkTester'">
@@ -86,7 +86,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -206,7 +206,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>15</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -302,7 +302,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -310,7 +310,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>86</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ClickWorkTester'">
@@ -350,7 +350,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -383,14 +383,6 @@
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="View Breakpoints...">
-        <Item>
-          <IdeaActionID>ViewBreakpoints</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
-          <Description>View Breakpoints...</Description>
-          <Count>16</Count>
         </Item>
       </Statistic>
     </option>
@@ -533,6 +525,14 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>21</Count>
         </Item>
       </Statistic>
     </option>

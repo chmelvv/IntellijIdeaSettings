@@ -134,7 +134,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
@@ -509,6 +509,12 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'debug.html'</Description>
           <Count>45</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Whitespaces">
+        <Item>
+          <IdeaActionID>EditorToggleShowWhitespaces</IdeaActionID>
+          <Description>Show Whitespaces</Description>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'C:/ClickWork-deveo/clickwork-ui-tests/testng.xml'">

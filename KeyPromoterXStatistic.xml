@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
@@ -22,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>22</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -265,14 +273,6 @@
           <Count>5</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'index.html'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'index.html'</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'mvn test'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -294,7 +294,7 @@
           <IdeaActionID>SaveAll</IdeaActionID>
           <ShortCut>'Ctrl+S'</ShortCut>
           <Description>Save All</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -302,7 +302,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -509,6 +509,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'debug.html'</Description>
           <Count>45</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'index.html'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'index.html'</Description>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Whitespaces">

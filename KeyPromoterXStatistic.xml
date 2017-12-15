@@ -214,7 +214,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace...">
@@ -563,6 +563,12 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'debug.html'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize 'Backbone_udemy'">
+        <Item>
+          <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
+          <Description>Synchronize 'Backbone_udemy'</Description>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">

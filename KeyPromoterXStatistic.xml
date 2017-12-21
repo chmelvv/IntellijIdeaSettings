@@ -113,6 +113,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'Alt+3'</ShortCut>
+          <Description>Find</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find in Path...">
         <Item>
           <IdeaActionID>FindInPath</IdeaActionID>
@@ -174,7 +182,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Insert'</ShortCut>
           <Description>New Watch...</Description>
-          <Count>35</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -190,7 +198,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -419,6 +427,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Add to Watches">
+        <Item>
+          <IdeaActionID>Debugger.AddToWatch</IdeaActionID>
+          <Description>Add to Watches</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Clear All">
         <Item>
           <IdeaActionID>ConsoleView.ClearAll</IdeaActionID>

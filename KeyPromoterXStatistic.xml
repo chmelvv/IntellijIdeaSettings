@@ -153,12 +153,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Move Watch Down">
+        <Item>
+          <IdeaActionID>XDebugger.MoveWatchDown</IdeaActionID>
+          <ShortCut>'Alt+Down'</ShortCut>
+          <Description>Move Watch Down</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Watch Up">
+        <Item>
+          <IdeaActionID>XDebugger.MoveWatchUp</IdeaActionID>
+          <ShortCut>'Alt+Up'</ShortCut>
+          <Description>Move Watch Up</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New Watch...">
         <Item>
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Insert'</ShortCut>
           <Description>New Watch...</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -174,7 +190,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>34</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -223,14 +239,6 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'mvn test'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Resume Program">
-        <Item>
-          <IdeaActionID>Resume</IdeaActionID>
-          <ShortCut>'F9'</ShortCut>
-          <Description>Resume Program</Description>
-          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -310,7 +318,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -318,7 +326,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>35</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ClickWorkTester'">
@@ -366,7 +374,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>23</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -501,6 +509,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'debug.html'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'C:/ClickWork-deveo/clickwork-ui-tests/te...'">

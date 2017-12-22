@@ -87,7 +87,7 @@
         <configuration>
           <custom-object-presentation enabled="true" />
           <stepping-filters>
-            <stepping-filter url-pattern="backbone.js" />
+            <stepping-filter enabled="false" url-pattern="backbone.js" />
           </stepping-filters>
         </configuration>
       </debugger>

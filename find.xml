@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -15,16 +16,16 @@
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

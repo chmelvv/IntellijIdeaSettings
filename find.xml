@@ -20,11 +20,11 @@
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
-      <mask>*.html</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.html</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>

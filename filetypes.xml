@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="hg-hgkeep" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="MassiveAnnotationTestSuite" type="XML" />
     </extensionMap>
   </component>

@@ -4,6 +4,7 @@
       <mapping pattern="hg-hgkeep" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="MassiveAnnotationTestSuite" type="XML" />
+      <mapping pattern="AnnotateAndMergeTestSuite" type="XML" />
     </extensionMap>
   </component>
 </application>

@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -13,7 +13,6 @@
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
@@ -27,13 +26,14 @@
       <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*.js</mask>
       <mask>*.css</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
